@@ -11,35 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of California, Santa Barbara, 2024 (expected)
+  * Thesis: The role of geometry and topology in soft matter systems
+  * Advisor: Mark J. Bowick
+* M.S. in Physics, University of California, Santa Barbara, 2021
+* B.S. in Physics, California Polytechnic State University, San Luis Obispo, 2018
+  * Bachelor's Thesis: Simulating the Electrical Properties of Random Carbon Nanotube Networks
+Using a Simple Model Based on Percolation Theory
+  * Advisor: Colleen A. Marlow
+* B.S. in Mathematics, California Polytechnic State University, San Luis Obispo, 2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -55,10 +36,30 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Learning Assistant in Chemistry (Cal Poly, SLO)
+  * CHEM 127 General Chemistry for Agriculture and Life Science I (Fall 2015)
+  * CHEM 124 General Chemistry for Physical Science and Engineering I (Winter 2016)
+  * CHEM 124 General Chemistry for Physical Science and Engineering I (Spring 2016)
+* Workshop Assistant in Math (Cal Poly, SLO)
+  * MATH 241 - Calculus IV (Fall 2016)
+  * MATH 241 - Calculus IV (Winter 2017)
+  * MATH 244 - Linear Analysis I (Spring 2017)
+  * MATH 244 - Linear Analysis I (Fall 2017)
+  * MATH 244 - Linear Analysis I (Winter 2018)
+  * MATH 241 - Calculus IV (Spring 2018)
+* Teaching Assistant (Cal Poly, SLO)
+  * PHYS 202 - Physics on the Computer (Winter 2018) 
   
-Service and leadership
+
+  Skills
 ======
-* Currently signed in to 43 different slack teams
+* Python
+  * HOOMD-blue
+  * LAMMPS
+  * FeniCS
+  * Dedalus  
+* C++
+* MATLAB
+* Mathematica
+
+

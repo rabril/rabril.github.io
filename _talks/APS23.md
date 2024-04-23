@@ -3,7 +3,7 @@ title: "Geometrical Control of the Tilt Transition in Single-Clamped Thermalized
 collection: talks
 type: "Talk"
 permalink: /talks/APS23
-venue: "APS 2023"
+venue: "APS March Meeting 2023"
 date: 03-2023
 location: "Las Vegas, NV"
 ---

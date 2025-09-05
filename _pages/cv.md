@@ -36,10 +36,19 @@ Talks
   
 Teaching
 ======
-* Learning Assistant in Chemistry (Cal Poly, SLO)
-  * CHEM 127 General Chemistry for Agriculture and Life Science I (Fall 2015)
-  * CHEM 124 General Chemistry for Physical Science and Engineering I (Winter 2016)
-  * CHEM 124 General Chemistry for Physical Science and Engineering I (Spring 2016)
+### Lecturer in Physics (Cal Poly, SLO)
+* PHYS 425 - Solid State Physics (Fall 2025)
+* PHYS 143 - General Physics III (Fall 2024, Winter 2025, Fall 2025)
+* PHYS 143 - General Physics III Lab (Fall 2024, Winter 2025, Fall 2025)
+* PHYS 142 - General Physics II (Spring 2025)
+* PHYS 142 - General Physics II Lab (Spring 2025)
+* PHYS 123 - College Physics III Lab (Winter 2025)
+  
+
+### Teaching Assistant (UC, Santa Barbara)
+* PHYS 128AL - Advanced Experimental Physics (Summer 2024)
+  
+### Teaching Experience as Undergraduate
 * Workshop Assistant in Math (Cal Poly, SLO)
   * MATH 241 - Calculus IV (Fall 2016)
   * MATH 241 - Calculus IV (Winter 2017)
@@ -49,17 +58,14 @@ Teaching
   * MATH 241 - Calculus IV (Spring 2018)
 * Teaching Assistant (Cal Poly, SLO)
   * PHYS 202 - Physics on the Computer (Winter 2018) 
+* Learning Assistant in Chemistry (Cal Poly, SLO)
+  * CHEM 127 General Chemistry for Agriculture and Life Science I (Fall 2015)
+  * CHEM 124 General Chemistry for Physical Science and Engineering I (Winter 2016)
+  * CHEM 124 General Chemistry for Physical Science and Engineering I (Spring 2016)
+
+
   
 
-  Skills
-======
-* Python
-  * HOOMD-blue
-  * LAMMPS
-  * FeniCS
-  * Dedalus  
-* C++
-* MATLAB
-* Mathematica
+
 
 

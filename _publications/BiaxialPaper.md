@@ -1,10 +1,11 @@
 ---
-title: "Non-Abelian defect junctions in chiral nematic systems with biaxial symmetry"
+title: "Topological Rigidity and Non-Abelian Defect Junctions in Chiral Nematic Systems with Effective Biaxial Symmetry"
 collection: publications
 permalink: /publication/BiaxialPaper
-excerpt: 'In this paper we investigate non-Abelian structural signatures in Chiral liquid crystals and use biaxial nematics to explain such structures.'
-date: 2024-12-31
-venue: 'In preparation'
+excerpt: 'In this paper we study topologically stable, non-Abelian structures in Chiral liquid crystals.'
+date: 2025-03-01
+venue: Phys Rev X
+paperurl: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021036
 ---
 
 

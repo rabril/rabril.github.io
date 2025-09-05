@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Robert Abril Valenzuela"
+title                    : "Roberto Abril Valenzuela"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "PhD Candidate"
+description              : &description "Physics Lecturer"
 url                      : https://rabril.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rabril/rabril.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Roberto"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Soft Condensed matter PhD student"
-  location         : "Santa Barbara"
-  employer         : "UCSB"
+  bio              : "Soft Condensed matter Physicist and Lecturer"
+  location         : "San Luis Obispo"
+  employer         : "Cal Poly"
   uri              : # URL
   email            : "roberto9601@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/cond-mat?searchtype=author&query=Valenzuela,+R+A"
   googlescholar    : "https://scholar.google.com/citations?user=cGSY_qsAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-5171-3354"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 

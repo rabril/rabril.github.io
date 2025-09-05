@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UCSB interested in geometry and topology of soft condensed matter systems.
+Physics lecturer at CalPoly, San Luis Obispo. Interested in topological and geometrical properties of soft elastic materials. 

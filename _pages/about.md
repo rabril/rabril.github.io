@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Geometry and topology in soft matter"
+title: "Hello! Welcome to my page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Physics lecturer at CalPoly, San Luis Obispo. Interested in topological and geometrical properties of soft elastic materials. 
+I am an assistant professor in physics at Cal Poly, SLO. My research focuses primarily in topological and geometric properties of soft condensed systems. I am also generally interested in complex systems and bio-inspired problems in physics. 

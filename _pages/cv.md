@@ -38,10 +38,12 @@ Teaching
 ======
 ### Lecturer in Physics (Cal Poly, SLO)
 * PHYS 425 - Solid State Physics (Fall 2025)
+* PHYS 321 - Methods of Theoretical Physics (Winter 2026)
 * PHYS 143 - General Physics III (Fall 2024, Winter 2025, Fall 2025)
 * PHYS 143 - General Physics III Lab (Fall 2024, Winter 2025, Fall 2025)
 * PHYS 142 - General Physics II (Spring 2025)
 * PHYS 142 - General Physics II Lab (Spring 2025)
+* PHYS 141 - General Physics I 
 * PHYS 123 - College Physics III Lab (Winter 2025)
   
 
